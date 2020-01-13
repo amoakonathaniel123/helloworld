@@ -1,2 +1,4 @@
-# helloworld
-we are all about Java
+# hello world
+we are all about java,
+the ambition is to help an application that can 
+help solve daily live issues
